@@ -117,7 +117,6 @@ source $ZSH/oh-my-zsh.sh
 # alias zshconfig="mate ~/.zshrc"
 # alias ohmyzsh="mate ~/.oh-my-zsh"
 #source /usr/share/powerlevel9k/powerlevel9k.zsh-theme
-#export DISCORD_TOKEN=NzI5MzM0NTUzMzA2NzI2NDkx.XwHbuw.5JZZ30Fiiz3AbCJO1zGRoD18ll4
 
 # To customize prompt, run `p10k configure` or edit ~/.p10k.zsh.
 #[[ ! -f ~/.p10k.zsh ]] || source ~/.p10k.zsh
